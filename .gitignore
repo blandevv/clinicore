@@ -1,0 +1,12 @@
+# backend
+backend/**/__pycache__/
+backend/.coverage
+
+# frontend
+frontend/node_modules/
+frontend/dist
+
+# environment 
+.env
+.env.*
+!.env.example
